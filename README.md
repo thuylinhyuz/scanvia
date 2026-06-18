@@ -14,3 +14,4 @@ cd /sdcard/Download
 python3.12 -m ensurepip
 python3.12 -m pip install requests mechanize rich bs4 html5lib httpx
 
+key VanDucDev-NSWQ-4CWT-DILP-URH2
